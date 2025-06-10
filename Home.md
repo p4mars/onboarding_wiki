@@ -9,9 +9,8 @@ Use it as your checklist and reference during the first few months. The content 
  
 
 Despite these informative sources, you are always welcome to talk to other colleagues. We are open-minded and happy to help. Your primary contacts are:
-\begin{itemize}
-    \item Department secretary - Shanta (nearly everything except research)
-    \item HR Services (contracts, permits, introductory session)
-    \item Your lovely colleagues (daily stuff, work, research)
-    \item Your supervisor- Reza (research,  big‑picture planning)
-\end{itemize}
+1. Department secretary - Shanta (nearly everything except research)
+2. HR Services (contracts, permits, introductory session)
+3. Your lovely colleagues (daily stuff, work, research)
+4. Your supervisor- Reza (research,  big‑picture planning)
+
